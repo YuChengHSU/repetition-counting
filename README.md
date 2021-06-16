@@ -1,4 +1,5 @@
 # repetition-counting
+[Paper preprint](https://arxiv.org/submit/3795435/view)
 ![Alt Text](./demo1.gif)
 ![Alt Text](./demo2.gif)
 ## Instruction:
