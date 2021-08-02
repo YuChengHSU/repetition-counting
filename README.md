@@ -6,7 +6,7 @@
         python rep-count.py --data [DATA_dir] 
 
 
-## Hyper parameters
+## Hyperparameters
 
 - j,default=18
     Joint number of the skeleton
