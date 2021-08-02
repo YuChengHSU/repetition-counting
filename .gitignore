@@ -1,6 +1,0 @@
-# Ignore everything in the root
-/*
-# Un-ignore all of subtree
-! /rep-count.py
-! /Video.gif
-! /*.md
