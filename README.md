@@ -1,6 +1,6 @@
 # repetition-counting
 [Paper preprint](https://arxiv.org/submit/3795435/view)
-![Alt Text](./video.gif)
+![Alt Text](./Video.gif)
 
 ## General usage
         python rep-count.py --data [DATA_dir] 
@@ -8,7 +8,7 @@
 ## Full command
         python rep-count.py --data [DATA_dir] -j 18 -d 3 -f 30 --wins 256 --noverlap 1
 
-## Hyper parameters
+## Hyperparameters
 
 - -j (default=18)
 
