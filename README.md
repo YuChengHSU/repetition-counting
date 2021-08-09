@@ -1,6 +1,11 @@
 # repetition-counting
+![demo](./Video.gif)
+- [repetition-counting](#repetition-counting)
+  - [General usage](#general-usage)
+  - [Full command](#full-command)
+  - [Hyperparameters](#hyperparameters)
+
 [Paper preprint](https://arxiv.org/submit/3795435/view)
-![Alt Text](./Video.gif)
 
 ## General usage
         python rep-count.py --data [DATA_dir] 
